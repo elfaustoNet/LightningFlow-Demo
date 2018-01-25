@@ -8,15 +8,20 @@ After pushing this code to your org, ensure that all flows are active and that t
 
 ## Sample Demo Script 
 #### Overview:
-You work in a call center for a health care company. There is a Flow embedded on the contact record using the Flow component.  Based on callers answers you navigate through the flow which helps guide you through the interaction. Notice how the call scripting can pull and display information.
+You work in a call center for a health care company. There is a Flow embedded on the contact record using the Flow component.  Based on callers answers, you navigate through the flow which helps guide you through the interaction. Notice how the call scripting can pull and display information about who you are talking with.
 
 #### Scenario 1: 
-Maybe the caller needs to submit a claim for reimbursement.  The flow can pull in existing information you have about the caller which can be used to validate the caller information and if not, you can update the data as you work through the claim process. Then you collect the invoice number and amount. Upon finishing this part of the flow, a case is created with the required information to get the claim processed. The claim number is displayed and then relayed back to the caller. 
+Maybe the caller needs to submit a claim for reimbursement.  The flow can pull in existing information you have about the caller which can be used to validate the caller information. If changes are required, you can update the data as you work through the claim process. After you validate the caller info, you collect the invoice number and amount. Upon finishing this part of the flow, a case is created with the required information to get the claim processed. The claim number is displayed and you relay it back to the caller. 
 
 #### Scenario 2: 
-Maybe the caller's employer has a wellness program. They are calling in to take the accessment and get paired up with a health coach that can help them work through an action plan. As the call center employee, you ask them the questions to the asessment. Then based on the score, a pre-defined action plan is created for the caller. 
+Maybe the caller was asked to take a survey for a chance to win a gift card. As you help them through survey, if they answer "Yes" to the question  "How you filed a Claim With Us Before?", they are asked some additional questions that they wouldn't have been asked if they had never filed a claim. 
 
-#### Flow Walkthrough: 
+#### Scenario 3: 
+Maybe the caller's employer has a wellness program. They are calling in to take the assessment and get paired up with a health coach that can help them work through an action plan. As the call center employee, you ask them the questions to the asessment. Then based on the score, a pre-defined action plan is created for the caller. 
+
+#### Flow Designer Walkthrough: 
+First talk about the pallette and the elements that can be dragged on the canvas to be used. As an amdmin, there are elements to display and collect data, look up records, create records, assign variables, decision logic and call apex.
+
 The Contact Interaction flow is the main for that is embedded on the contact record. Based on the caller's initial reason for calling in, we direct the user to different subflows. Subflows create modularity and reusability. The first step in this flow is querying all the contact record information needed for the flows based on the contactId passed in from the Lightning App Page.  The Health Assessment flow collects the answers, totals the score, and then based on the total, determined which action plan template should be assigned to the caller. The flow then queries the template and passes the id into the Invocable Apex. Leveraging Apex in this scenario allows for more complex business logic (like creating records from templates) and provides a way to reuse so that if they want to set up more templates, an admin doesn't have to recreate the logic. 
 
 
