@@ -1,0 +1,22 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Action_Plan_Template__c",
+                "referenceId": "Action_Plan_Template__cRef1"
+            },
+            "Name": "Medium Risk Health Plan1",
+            "Active__c": true,
+            "Description__c": "Plan related to lowering health risks for medium risk patients"
+        },
+        {
+            "attributes": {
+                "type": "Action_Plan_Template__c",
+                "referenceId": "Action_Plan_Template__cRef2"
+            },
+            "Name": "High Risk Health Plan1",
+            "Active__c": true,
+            "Description__c": "Plan related to lowering health risks for high risk patients"
+        }
+    ]
+}

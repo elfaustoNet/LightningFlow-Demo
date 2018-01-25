@@ -1,0 +1,15 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef1"
+            },
+            "FirstName": "Appy",
+            "LastName": "Cat",
+            "Phone": "555-555-5555",
+            "Policy_ID__c": "P100100",
+            "Group_Number__c": "GN123123"
+        }
+    ]
+}
