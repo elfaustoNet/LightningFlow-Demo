@@ -1,0 +1,1543 @@
+[
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516114918373,
+            "changeTime": 1516114918373,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516114918373,
+            "changeTime": 1516114918373,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default",
+            "isDirectory": true,
+            "size": 384,
+            "modifiedTime": 1516678572057,
+            "changeTime": 1516678572057,
+            "contentHash": "2b33a553946a6c2a7f92772e99acf24e42936552",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1516114918373,
+            "changeTime": 1516114918373,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1516811037959,
+            "changeTime": 1516811037959,
+            "contentHash": "7805e05f377da57a959177c4ff10ef151508bfc1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/classes/CreateActionPlan.cls",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/classes/CreateActionPlan.cls",
+            "isDirectory": false,
+            "size": 6745,
+            "modifiedTime": 1516682002407,
+            "changeTime": 1516682002407,
+            "contentHash": "1e54c90755cbb36f2a411875aea2e878fa84ee46",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/classes/CreateActionPlan.cls-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/classes/CreateActionPlan.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1516115361342,
+            "changeTime": 1516115361342,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1516682390169,
+            "changeTime": 1516682390169,
+            "contentHash": "6877243b0ba415edd9515d1bda6fec656059204d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flexipages/Action_Plan_Goal.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flexipages/Action_Plan_Goal.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 3520,
+            "modifiedTime": 1516119032861,
+            "changeTime": 1516119032861,
+            "contentHash": "316795c776038a0569e0dd33ebe129330defd493",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flexipages/Action_Plan_Template.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flexipages/Action_Plan_Template.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 3669,
+            "modifiedTime": 1516119032845,
+            "changeTime": 1516119032845,
+            "contentHash": "c715a1c88c36f89db73b3f9659c18cd7d0dcb8ef",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flows",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flows",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1516115361392,
+            "changeTime": 1516115361392,
+            "contentHash": "80eb410b00fcb999593d539180dd914c92438e04",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flows/ClaimFlow-3.flow-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flows/ClaimFlow-3.flow-meta.xml",
+            "isDirectory": false,
+            "size": 8601,
+            "modifiedTime": 1516115361364,
+            "changeTime": 1516115361364,
+            "contentHash": "b48dec0615dc0c5ddd94a7c168e655c940f5636f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flows/Contact_Interaction_Main_Screen-5.flow-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flows/Contact_Interaction_Main_Screen-5.flow-meta.xml",
+            "isDirectory": false,
+            "size": 9058,
+            "modifiedTime": 1516115361372,
+            "changeTime": 1516115361372,
+            "contentHash": "9536e9548ee009bc13118225b6a2f0b012ff7acf",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flows/Health_Assessment_Flow-2.flow-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flows/Health_Assessment_Flow-2.flow-meta.xml",
+            "isDirectory": false,
+            "size": 18269,
+            "modifiedTime": 1516115361380,
+            "changeTime": 1516115361380,
+            "contentHash": "1045dc77e89c5e4514b7d84fb120d05894bf1b5c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flows/SatisfactionSurveyFlow-1.flow-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flows/SatisfactionSurveyFlow-1.flow-meta.xml",
+            "isDirectory": false,
+            "size": 19332,
+            "modifiedTime": 1516115361392,
+            "changeTime": 1516115361392,
+            "contentHash": "1080e6dd8fb97be50e159601df670ade7e2b74e5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1516678499308,
+            "changeTime": 1516678499308,
+            "contentHash": "b1655c14e7faeaffde61484ce59420bc9181c402",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/layouts/Action_Plan_Goal__c-Action Plan Goal Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/layouts/Action_Plan_Goal__c-Action Plan Goal Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3467,
+            "modifiedTime": 1516678499302,
+            "changeTime": 1516678499302,
+            "contentHash": "cf77a135f987ad1abf1301751a9b72433e36302a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/layouts/Action_Plan_Problem__c-Action Plan Problem Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/layouts/Action_Plan_Problem__c-Action Plan Problem Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3201,
+            "modifiedTime": 1516678499325,
+            "changeTime": 1516678499325,
+            "contentHash": "f22cc3963c2f7b1c2658880786185f196c726fa1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/layouts/Action_Plan_Template__c-Action Plan Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/layouts/Action_Plan_Template__c-Action Plan Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2840,
+            "modifiedTime": 1516678499319,
+            "changeTime": 1516678499319,
+            "contentHash": "4a352690736060b6ce09e114be6a436903ee6dee",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1516673058345,
+            "changeTime": 1516673058345,
+            "contentHash": "0c4d9f33bbdee77df64e17eba1dceb381a09342b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Goal__c",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Goal__c",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1516115361417,
+            "changeTime": 1516115361417,
+            "contentHash": "758a623250130f6d8819a386869742a0295809e8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Goal__c/Action_Plan_Goal__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Goal__c/Action_Plan_Goal__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2381,
+            "modifiedTime": 1516115361414,
+            "changeTime": 1516115361414,
+            "contentHash": "df28f2726bd780bdcf6ce6e6b0bffd1d2d491b61",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Goal__c/fields",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Goal__c/fields",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1516678499283,
+            "changeTime": 1516678499283,
+            "contentHash": "b4462819cbcf4da16c8ba94801d9cbecb915a3d1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Goal__c/fields/Action_Plan_Problem__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Goal__c/fields/Action_Plan_Problem__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 596,
+            "modifiedTime": 1516115361414,
+            "changeTime": 1516115361414,
+            "contentHash": "920e634fc19328690bab1160f7446ab43e5899d1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Goal__c/fields/Description__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Goal__c/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 359,
+            "modifiedTime": 1516115361415,
+            "changeTime": 1516115361415,
+            "contentHash": "fe3ce061dcc7f42c21cf20db9c7f71aca5bc6861",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Goal__c/fields/Priority__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Goal__c/fields/Priority__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 998,
+            "modifiedTime": 1516115361416,
+            "changeTime": 1516115361416,
+            "contentHash": "b833767530bcc06fd620ee68987f4a10bdcc5d90",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Goal__c/fields/Sort_Order__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Goal__c/fields/Sort_Order__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 432,
+            "modifiedTime": 1516115361416,
+            "changeTime": 1516115361416,
+            "contentHash": "a8fa27bcc14cba43407205404a7cd08eab239c1f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Goal__c/listViews",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Goal__c/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516115361417,
+            "changeTime": 1516115361417,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Goal__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Goal__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1516115361417,
+            "changeTime": 1516115361417,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1516115361436,
+            "changeTime": 1516115361436,
+            "contentHash": "c5de8029bfeeca4621e4780a5807509499b02fd7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c/Action_Plan_Problem__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c/Action_Plan_Problem__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2151,
+            "modifiedTime": 1516115361433,
+            "changeTime": 1516115361433,
+            "contentHash": "15e591e86d46a111597ae0c88894e4b4b912e774",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c/fields",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c/fields",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1516678499294,
+            "changeTime": 1516678499294,
+            "contentHash": "a818fccfbbea78bbaf94c2fb7abe172131a4eec9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c/fields/Action_Plan_Template__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c/fields/Action_Plan_Template__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 605,
+            "modifiedTime": 1516115361434,
+            "changeTime": 1516115361434,
+            "contentHash": "1cc351e0c7dfca1a24c66d5648533f51b03e45dd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c/fields/Description__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 359,
+            "modifiedTime": 1516115361435,
+            "changeTime": 1516115361435,
+            "contentHash": "fe3ce061dcc7f42c21cf20db9c7f71aca5bc6861",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c/fields/Priority__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c/fields/Priority__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 998,
+            "modifiedTime": 1516115361435,
+            "changeTime": 1516115361435,
+            "contentHash": "b833767530bcc06fd620ee68987f4a10bdcc5d90",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c/fields/Sort_Order__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c/fields/Sort_Order__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 432,
+            "modifiedTime": 1516115361436,
+            "changeTime": 1516115361436,
+            "contentHash": "a8fa27bcc14cba43407205404a7cd08eab239c1f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c/listViews",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516115361436,
+            "changeTime": 1516115361436,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1516115361436,
+            "changeTime": 1516115361436,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template__c",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template__c",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1516115361452,
+            "changeTime": 1516115361452,
+            "contentHash": "af3d26d5b5622b78d9a8dd1c8bbdfcc40883adc0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template__c/Action_Plan_Template__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template__c/Action_Plan_Template__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2388,
+            "modifiedTime": 1516115361451,
+            "changeTime": 1516115361451,
+            "contentHash": "72e7105f646a15078d94b8dc2a13bcc4c32b59a2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template__c/fields",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template__c/fields",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1516678499290,
+            "changeTime": 1516678499290,
+            "contentHash": "fcea2f14f1a4354db3d134eb7e0951226b6b18d8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template__c/fields/Active__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template__c/fields/Active__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 357,
+            "modifiedTime": 1516115361452,
+            "changeTime": 1516115361452,
+            "contentHash": "5aade8eaa1d29ae34944e69aba4f35ef4261fb70",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template__c/fields/Description__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template__c/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 359,
+            "modifiedTime": 1516115361452,
+            "changeTime": 1516115361452,
+            "contentHash": "fe3ce061dcc7f42c21cf20db9c7f71aca5bc6861",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template__c/listViews",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template__c/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516115361453,
+            "changeTime": 1516115361453,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1516115361453,
+            "changeTime": 1516115361453,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Case",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Case",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516115361458,
+            "changeTime": 1516115361458,
+            "contentHash": "7c277a4a3fea161827da03d3f2c58591e969e632",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Case/Case.object-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Case/Case.object-meta.xml",
+            "isDirectory": false,
+            "size": 103,
+            "modifiedTime": 1516115361458,
+            "changeTime": 1516115361458,
+            "contentHash": "280bec81c7b70604977205601148d4a33006ab0f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Case/fields",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Case/fields",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516115361459,
+            "changeTime": 1516115361459,
+            "contentHash": "5238b6f98809e430d44514eaf03c24435e1bfc4d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Case/fields/Invoice_Amount__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Case/fields/Invoice_Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 463,
+            "modifiedTime": 1516115361458,
+            "changeTime": 1516115361458,
+            "contentHash": "9f57e37041aabc5874f589eba777e8b61a40f773",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Case/fields/Invoice_Number__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Case/fields/Invoice_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 459,
+            "modifiedTime": 1516115361459,
+            "changeTime": 1516115361459,
+            "contentHash": "42fcac6de42410d217df3bca7735183d7027f87f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Contact",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516115361463,
+            "changeTime": 1516115361463,
+            "contentHash": "47adfd5ffb5b99db19f7f5b167792192778dbb7e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Contact/Contact.object-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Contact/Contact.object-meta.xml",
+            "isDirectory": false,
+            "size": 103,
+            "modifiedTime": 1516115361463,
+            "changeTime": 1516115361463,
+            "contentHash": "280bec81c7b70604977205601148d4a33006ab0f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Contact/fields",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Contact/fields",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516115361464,
+            "changeTime": 1516115361464,
+            "contentHash": "1a0b57de8cdd6127a2cf5c26e4d6281dc5648cba",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Contact/fields/Group_Number__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Contact/fields/Group_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 375,
+            "modifiedTime": 1516115361464,
+            "changeTime": 1516115361464,
+            "contentHash": "e28ad53e07efa7120ee29efa2caa211ed0570fdc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Contact/fields/Policy_ID__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Contact/fields/Policy_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 369,
+            "modifiedTime": 1516115361464,
+            "changeTime": 1516115361464,
+            "contentHash": "2597e2e008e97688ed207c81867c80ec180e0ccd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo",
+            "isDirectory": true,
+            "size": 416,
+            "modifiedTime": 1516845265964,
+            "changeTime": 1516845265964,
+            "contentHash": "6487efb59a2c7aab946a29d54bf45f6b8331aeb7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 6612,
+            "modifiedTime": 1516678499362,
+            "changeTime": 1516678499362,
+            "contentHash": "606a3dbe8ddc149ead989d703caf2b94b236f116",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flowDefinitions/Contact_Interaction_Main_Screen.flowDefinition-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flowDefinitions/Contact_Interaction_Main_Screen.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "size": 171,
+            "modifiedTime": 1516116910284,
+            "changeTime": 1516116910284,
+            "contentHash": "767432ab9859c963a8546147415bdb8979cb362f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flowDefinitions/ClaimFlow.flowDefinition-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flowDefinitions/ClaimFlow.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "size": 171,
+            "modifiedTime": 1516116910285,
+            "changeTime": 1516116910285,
+            "contentHash": "b72280af1d1912b328d015863cd91e354e6e492f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flowDefinitions/SatisfactionSurveyFlow.flowDefinition-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flowDefinitions/SatisfactionSurveyFlow.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "size": 171,
+            "modifiedTime": 1516116910286,
+            "changeTime": 1516116910286,
+            "contentHash": "84016bd12773aae2340e6057aede8139cb16f930",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flowDefinitions/Health_Assessment_Flow.flowDefinition-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flowDefinitions/Health_Assessment_Flow.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "size": 171,
+            "modifiedTime": 1516116910287,
+            "changeTime": 1516116910287,
+            "contentHash": "795cc139f192885d653394326c2a130b7c62654a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/permissionsets/LightningFlowDemo.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/permissionsets/LightningFlowDemo.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 7404,
+            "modifiedTime": 1516678499379,
+            "changeTime": 1516678499379,
+            "contentHash": "30458baa7014a564c52304b57eedfe7a2606d27b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flowDefinitions",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flowDefinitions",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1516116910287,
+            "changeTime": 1516116910287,
+            "contentHash": "9406139850a4bfb2b1faf3b97089a6efa07d216b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516116910288,
+            "changeTime": 1516116910288,
+            "contentHash": "126a0c4950b8f2bdb72b0af05649d1e572584a5f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flexipages/Action_Plan_Problem_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flexipages/Action_Plan_Problem_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 4420,
+            "modifiedTime": 1516119032853,
+            "changeTime": 1516119032853,
+            "contentHash": "c92834de2468508e03769a88a86d52a9a37ff5f6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/tabs/Action_Plan_Template__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/tabs/Action_Plan_Template__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1516119032862,
+            "changeTime": 1516119032862,
+            "contentHash": "5521f0d16ccceb7d2431c493ed952c7e36651fa8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 9214,
+            "modifiedTime": 1516673058371,
+            "changeTime": 1516673058371,
+            "contentHash": "87cb9a5d5f33c4779ebb2439506ed9f4945286eb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 23636,
+            "modifiedTime": 1516673058445,
+            "changeTime": 1516673058445,
+            "contentHash": "c96b5aff8a2fec9f91424144f82e234dbb5cab5e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 8876,
+            "modifiedTime": 1516673058455,
+            "changeTime": 1516673058455,
+            "contentHash": "86ff7d73832fdc6650be2d034b5a79b0fe96f787",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 8876,
+            "modifiedTime": 1516673058465,
+            "changeTime": 1516673058465,
+            "contentHash": "86ff7d73832fdc6650be2d034b5a79b0fe96f787",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516678499370,
+            "changeTime": 1516678499370,
+            "contentHash": "7bbf2723843c20d6aea1f8a145b86937b9f2d162",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1516119032912,
+            "changeTime": 1516119032912,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan__c/Action_Plan__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan__c/Action_Plan__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2186,
+            "modifiedTime": 1516673058328,
+            "changeTime": 1516673058328,
+            "contentHash": "da07b3d5ba0d6c07e9fbbaef2f1436e760388972",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan__c/fields/Case__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan__c/fields/Case__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 538,
+            "modifiedTime": 1516673058328,
+            "changeTime": 1516673058328,
+            "contentHash": "6899f4788002b87e4087d3f81f30497d8c0dce44",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan__c/fields/Contact__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan__c/fields/Contact__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 547,
+            "modifiedTime": 1516673058328,
+            "changeTime": 1516673058328,
+            "contentHash": "8baf062b904200e28823db2a4c48b24701331f62",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan__c/fields/Description__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan__c/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 407,
+            "modifiedTime": 1516673058329,
+            "changeTime": 1516673058329,
+            "contentHash": "c148abc875561f30bf0a60f7dc0c96deabd34240",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Goal__c/Action_Plan_Template_Goal__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Goal__c/Action_Plan_Template_Goal__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2247,
+            "modifiedTime": 1516673058336,
+            "changeTime": 1516673058336,
+            "contentHash": "2ce8015e411537dc01f6884bc3e434ad869affe2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Goal__c/fields/Action_Plan_Template_Problem__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Goal__c/fields/Action_Plan_Template_Problem__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 736,
+            "modifiedTime": 1516673058336,
+            "changeTime": 1516673058336,
+            "contentHash": "6e6b0c5d2475410c0983d1090e74ecf60306878e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Goal__c/fields/Description__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Goal__c/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 407,
+            "modifiedTime": 1516673058336,
+            "changeTime": 1516673058336,
+            "contentHash": "c148abc875561f30bf0a60f7dc0c96deabd34240",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Goal__c/fields/Priority__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Goal__c/fields/Priority__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 998,
+            "modifiedTime": 1516673058337,
+            "changeTime": 1516673058337,
+            "contentHash": "b833767530bcc06fd620ee68987f4a10bdcc5d90",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Goal__c/fields/Sort_Order__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Goal__c/fields/Sort_Order__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 432,
+            "modifiedTime": 1516673058337,
+            "changeTime": 1516673058337,
+            "contentHash": "a8fa27bcc14cba43407205404a7cd08eab239c1f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Problem__c/Action_Plan_Template_Problem__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Problem__c/Action_Plan_Template_Problem__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2216,
+            "modifiedTime": 1516673058346,
+            "changeTime": 1516673058346,
+            "contentHash": "e04d3bebd7c214a8505d972e8b5d6335b297cf65",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Problem__c/fields/Action_Plan_Template__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Problem__c/fields/Action_Plan_Template__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 679,
+            "modifiedTime": 1516673058346,
+            "changeTime": 1516673058346,
+            "contentHash": "56b460545ad626c451197c560ebb535359766b53",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Problem__c/fields/Description__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Problem__c/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 368,
+            "modifiedTime": 1516673058346,
+            "changeTime": 1516673058346,
+            "contentHash": "85578052048b4329315d358104d70f981b0121e6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Problem__c/fields/Priority__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Problem__c/fields/Priority__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 959,
+            "modifiedTime": 1516673058347,
+            "changeTime": 1516673058347,
+            "contentHash": "fc5cde0ebc694f51fcaa6d5ed107d1b115db1518",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Problem__c/fields/Sort_Order__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Problem__c/fields/Sort_Order__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 393,
+            "modifiedTime": 1516673058347,
+            "changeTime": 1516673058347,
+            "contentHash": "71571952a2116c0370c36c29c010cfdb05950b3f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/layouts/Action_Plan_Template_Problem__c-Action Plan Template Problem Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/layouts/Action_Plan_Template_Problem__c-Action Plan Template Problem Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2527,
+            "modifiedTime": 1516673058353,
+            "changeTime": 1516673058353,
+            "contentHash": "ed028d890c7d97e3e36d77bcb7b2cd2146ff6c56",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/layouts/Action_Plan__c-Action Plan Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/layouts/Action_Plan__c-Action Plan Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3447,
+            "modifiedTime": 1516678499313,
+            "changeTime": 1516678499313,
+            "contentHash": "3edf84fb9a2f5fe60a99eaa72abe2c8b08920f57",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/layouts/Action_Plan_Template_Goal__c-Action Plan Template Goal Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/layouts/Action_Plan_Template_Goal__c-Action Plan Template Goal Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2370,
+            "modifiedTime": 1516673058356,
+            "changeTime": 1516673058356,
+            "contentHash": "ac8df51c882b7635601deba00d48a1ebf9cb6416",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan__c",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan__c",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516673058328,
+            "changeTime": 1516673058328,
+            "contentHash": "53287154652e905a3b0f07efe08e2eda16c8e14c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan__c/fields",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan__c/fields",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1516678499287,
+            "changeTime": 1516678499287,
+            "contentHash": "25cbdb5b710a61c1581b3f8b910784a057625200",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Goal__c",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Goal__c",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516673058336,
+            "changeTime": 1516673058336,
+            "contentHash": "33f2985527d0eb8009ab07de50f180f867a02295",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Goal__c/fields",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Goal__c/fields",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1516673058337,
+            "changeTime": 1516673058337,
+            "contentHash": "3a790da5ced312c16850f9e01e2de1739935d620",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Problem__c",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Problem__c",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516673058346,
+            "changeTime": 1516673058346,
+            "contentHash": "6ab5d5e7a7e51303e60240dd4a40d9b612b633ac",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Problem__c/fields",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template_Problem__c/fields",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1516673058347,
+            "changeTime": 1516673058347,
+            "contentHash": "9939dd2cad2fa5e3fb2a8242354aa8b9b22ce102",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Goal__c/fields/Action_Plan_Template_Goal__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Goal__c/fields/Action_Plan_Template_Goal__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 434,
+            "modifiedTime": 1516678499283,
+            "changeTime": 1516678499283,
+            "contentHash": "19b1736fdb1abb2a1cbe25fcc81aa99b8a0a84a1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan__c/fields/Action_Plan_Template__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan__c/fields/Action_Plan_Template__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 424,
+            "modifiedTime": 1516678499286,
+            "changeTime": 1516678499286,
+            "contentHash": "d2d7ffcf96035a96f1089db8b82559e491c909ba",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan__c/fields/Status__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan__c/fields/Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1004,
+            "modifiedTime": 1516678499287,
+            "changeTime": 1516678499287,
+            "contentHash": "b7fde6e03c90ca404e2d90ce5907fb15c6a4def8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template__c/fields/Case_Priority__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Template__c/fields/Case_Priority__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1003,
+            "modifiedTime": 1516678499290,
+            "changeTime": 1516678499290,
+            "contentHash": "a118bf68338431554df65d7264261039e4e0c760",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c/fields/Action_Plan_Template_Problem__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c/fields/Action_Plan_Template_Problem__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 440,
+            "modifiedTime": 1516678499294,
+            "changeTime": 1516678499294,
+            "contentHash": "15a4dd4aa80d3b3f73e1070c4b22246360e8001b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c/fields/Action_Plan__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/objects/Action_Plan_Problem__c/fields/Action_Plan__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 673,
+            "modifiedTime": 1516678499294,
+            "changeTime": 1516678499294,
+            "contentHash": "a0d776bc3385be7da1a30847badb94ea9d6d0256",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/layouts/Contact-Contact Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/layouts/Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9496,
+            "modifiedTime": 1516678499308,
+            "changeTime": 1516678499308,
+            "contentHash": "af8cc55301a6e68811e0f7af10d9d5ac5ccfcf4d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flexipages/Lightning_Flow_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flexipages/Lightning_Flow_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 388,
+            "modifiedTime": 1516678499364,
+            "changeTime": 1516678499364,
+            "contentHash": "e7d14902acb7c7990bbce3f7899f76d1370ca869",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flexipages/Action_Plan_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flexipages/Action_Plan_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 4404,
+            "modifiedTime": 1516678499368,
+            "changeTime": 1516678499368,
+            "contentHash": "ae40d5f2104f3ac81854bb4a9f8cd116d822d8e2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/tabs/Action_Plan__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/tabs/Action_Plan__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1516678499370,
+            "changeTime": 1516678499370,
+            "contentHash": "5521f0d16ccceb7d2431c493ed952c7e36651fa8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/applications/Lightning_Flow.app-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/applications/Lightning_Flow.app-meta.xml",
+            "isDirectory": false,
+            "size": 627,
+            "modifiedTime": 1516678499372,
+            "changeTime": 1516678499372,
+            "contentHash": "1c08c7984ffe71624a185050af93066511234a2b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516678499372,
+            "changeTime": 1516678499372,
+            "contentHash": "e01f966e3f403ea1df63e39182ebb6f65e01564f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flexipages/Action_Plan_Template_Problem_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/flexipages/Action_Plan_Template_Problem_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 3122,
+            "modifiedTime": 1516682390169,
+            "changeTime": 1516682390169,
+            "contentHash": "f1f52625d56cfd30a1a7ce586cac6c1af1c211cb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/classes/CreateActionPlanTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/classes/CreateActionPlanTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1122,
+            "modifiedTime": 1516845845694,
+            "changeTime": 1516845845694,
+            "contentHash": "dbff5ad32efe3768c314394faad837c1ddff52c9"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/classes/CreateActionPlanTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/classes/CreateActionPlanTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1516811008723,
+            "changeTime": 1516811008723,
+            "contentHash": "94d1998353a457141aa2d1e35576bda7e1cbef0b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/classes/CreateActionPlanTestData.cls",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/classes/CreateActionPlanTestData.cls",
+            "isDirectory": false,
+            "size": 3864,
+            "modifiedTime": 1516845626034,
+            "changeTime": 1516845626034,
+            "contentHash": "c8d7212bf279e509c7d83a1c1b013b8ab21f89fd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/classes/CreateActionPlanTestData.cls-meta.xml",
+        {
+            "sourcePath": "/Users/mike.faust/Documents/sfdxprojects/LightningFlow-Demo/force-app/main/default/classes/CreateActionPlanTestData.cls-meta.xml",
+            "isDirectory": false,
+            "size": 202,
+            "modifiedTime": 1516811037959,
+            "changeTime": 1516811037959,
+            "contentHash": "f508df00fbb367e8a009d49c8466006328b5558d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ]
+]

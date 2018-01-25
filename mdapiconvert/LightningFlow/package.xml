@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LightningFlow</fullName>
+    <types>
+        <members>CreateActionPlan</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Action_Plan_Goal__c.Action_Plan_Problem__c</members>
+        <members>Action_Plan_Goal__c.Description__c</members>
+        <members>Action_Plan_Goal__c.GoalTemplate__c</members>
+        <members>Action_Plan_Goal__c.Priority__c</members>
+        <members>Action_Plan_Goal__c.Sort_Order__c</members>
+        <members>Action_Plan_Problem__c.Action_Plan_Template__c</members>
+        <members>Action_Plan_Problem__c.Case__c</members>
+        <members>Action_Plan_Problem__c.Description__c</members>
+        <members>Action_Plan_Problem__c.Priority__c</members>
+        <members>Action_Plan_Problem__c.ProblemTemplate__c</members>
+        <members>Action_Plan_Problem__c.Sort_Order__c</members>
+        <members>Action_Plan_Template__c.Active__c</members>
+        <members>Action_Plan_Template__c.Description__c</members>
+        <members>Case.Invoice_Amount__c</members>
+        <members>Case.Invoice_Number__c</members>
+        <members>Contact.Group_Number__c</members>
+        <members>Contact.Policy_ID__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Action_Plan_Goal__c</members>
+        <members>Action_Plan_Problem__c</members>
+        <members>Action_Plan_Template__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Action_Plan_Goal</members>
+        <members>Action_Plan_Template</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>ClaimFlow-3</members>
+        <members>Contact_Interaction_Main_Screen-5</members>
+        <members>Health_Assessment_Flow-2</members>
+        <members>SatisfactionSurveyFlow-1</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>Action_Plan_Goal__c-Action Plan Goal Layout</members>
+        <members>Action_Plan_Problem__c-Action Plan Problem Layout</members>
+        <members>Action_Plan_Template__c-Action Plan Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Action_Plan_Goal__c.All</members>
+        <members>Action_Plan_Problem__c.All</members>
+        <members>Action_Plan_Template__c.All</members>
+        <name>ListView</name>
+    </types>
+    <version>41.0</version>
+</Package>
