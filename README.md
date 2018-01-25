@@ -25,9 +25,11 @@ First talk about the pallette and the elements that can be dragged on the canvas
 The Contact Interaction flow is the main for that is embedded on the contact record. Based on the caller's initial reason for calling in, we direct the user to different subflows. Subflows create modularity and reusability. The first step in this flow is querying all the contact record information needed for the flows based on the contactId passed in from the Lightning App Page.  The Health Assessment flow collects the answers, totals the score, and then based on the total, determined which action plan template should be assigned to the caller. The flow then queries the template and passes the id into the Invocable Apex. Leveraging Apex in this scenario allows for more complex business logic (like creating records from templates) and provides a way to reuse so that if they want to set up more templates, an admin doesn't have to recreate the logic. 
 
 
-## Resource
+## Resources
 Salesforce documentation related to the components leveraged in this demo.
 
 [Visual Workflow Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.salesforce_vpm_guide.meta/salesforce_vpm_guide/vpm_intro.htm)
+
 [InvocableMethod Annotation](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableMethod.htm)
+
 [InvocableVariable Annotation](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableVariable.htmg)
