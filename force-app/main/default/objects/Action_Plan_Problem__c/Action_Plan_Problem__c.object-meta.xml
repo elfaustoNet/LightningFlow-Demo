@@ -60,6 +60,6 @@
     </nameField>
     <pluralLabel>Action Plan Problems</pluralLabel>
     <searchLayouts/>
-    <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
+    <sharingModel>ControlledByParent</sharingModel>
 </CustomObject>
