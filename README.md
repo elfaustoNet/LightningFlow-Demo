@@ -7,7 +7,7 @@ After pushing the code to your org, ensure that all flows are active and Lightni
 
 Then you will need to assign the permission set to the user.<br>
 To do this, run the following command: <br>
->sfdx force:user:permset:assign -n LightningFlowDemo -u 'TARGETUSERNAME'
+>sfdx force:user:permset:assign -n LightningFlowDemo -u \<TARGETUSERNAME\>
 
 Next, import the sample Contact and Action Plan Templates. <br>
 To do this, run the following commands:<br>
