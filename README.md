@@ -3,7 +3,7 @@
 The is an example of leveraging Lightning Flow. The code demonstrates the use of subflows, branching logic to ask additional questions based on selected answers, selecting of a template record based on a total score, and using apex to create an action plan based on template objects.
 
 ## Post Install Step
-After pushing the code to your org, ensure that all flows are active.
+After pushing the code to your org, ensure that all flows are active and Lightning App Pages are activated and assigned. 
 
 Then you will need to assign the permission set to the user.<br>
 To do this, run the following command: <br>
@@ -11,8 +11,8 @@ To do this, run the following command: <br>
 
 Next, import the sample Contact and Action Plan Templates. <br>
 To do this, run the following commands:<br>
->sfdx force:data:tree:import -f Contact.json -u <TARGETUSERNAME><br>
->sfdx force:data:tree:import -p ActionPlanTemplates-plan.json -u <TARGETUSERNAME>
+>sfdx force:data:tree:import -f ./data/Contact.json -u <TARGETUSERNAME><br>
+>sfdx force:data:tree:import -p ./data/ActionPlanTemplates-plan.json -u <TARGETUSERNAME>
 
 If these steps are not complete, the flow will not run properly,
 

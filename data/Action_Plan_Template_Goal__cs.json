@@ -2,66 +2,66 @@
     "records": [
         {
             "attributes": {
-                "type": "Action_Plan_Goal_Template__c",
-                "referenceId": "Action_Plan_Goal_Template__cRef1"
+                "type": "Action_Plan_Template_Goal__c",
+                "referenceId": "Action_Plan_Template_Goal__cRef1"
             },
             "Name": "Eat moderate amounts of protein",
-            "Action_Plan_Problem_Template__c": "@Action_Plan_Problem_Template__cRef1",
+            "Action_Plan_Template_Problem__c": "@Action_Plan_Template_Problem__cRef1",
             "Description__c": "Eat 3-5 servings of protein a day",
             "Priority__c": "Medium",
             "Sort_Order__c": 3
         },
         {
             "attributes": {
-                "type": "Action_Plan_Goal_Template__c",
-                "referenceId": "Action_Plan_Goal_Template__cRef2"
+                "type": "Action_Plan_Template_Goal__c",
+                "referenceId": "Action_Plan_Template_Goal__cRef2"
             },
             "Name": "Eat more servings of fruit a day",
-            "Action_Plan_Problem_Template__c": "@Action_Plan_Problem_Template__cRef1",
+            "Action_Plan_Template_Problem__c": "@Action_Plan_Template_Problem__cRef1",
             "Description__c": "Eat 3-5 servings of fruit a day",
             "Priority__c": "Medium",
             "Sort_Order__c": 2
         },
         {
             "attributes": {
-                "type": "Action_Plan_Goal_Template__c",
-                "referenceId": "Action_Plan_Goal_Template__cRef3"
+                "type": "Action_Plan_Template_Goal__c",
+                "referenceId": "Action_Plan_Template_Goal__cRef3"
             },
             "Name": "Eat 5 Servings of Vegetables a Day",
-            "Action_Plan_Problem_Template__c": "@Action_Plan_Problem_Template__cRef1",
+            "Action_Plan_Template_Problem__c": "@Action_Plan_Template_Problem__cRef1",
             "Description__c": "Eat 5 servings of vegetables a day",
             "Priority__c": "High",
             "Sort_Order__c": 1
         },
         {
             "attributes": {
-                "type": "Action_Plan_Goal_Template__c",
-                "referenceId": "Action_Plan_Goal_Template__cRef4"
+                "type": "Action_Plan_Template_Goal__c",
+                "referenceId": "Action_Plan_Template_Goal__cRef4"
             },
             "Name": "Lower Cholesterol",
-            "Action_Plan_Problem_Template__c": "@Action_Plan_Problem_Template__cRef2",
+            "Action_Plan_Template_Problem__c": "@Action_Plan_Template_Problem__cRef2",
             "Description__c": "Goal is to lower cholesterol. Eat less protein and more fruits and vegetables",
             "Priority__c": "Medium",
             "Sort_Order__c": 1
         },
         {
             "attributes": {
-                "type": "Action_Plan_Goal_Template__c",
-                "referenceId": "Action_Plan_Goal_Template__cRef5"
+                "type": "Action_Plan_Template_Goal__c",
+                "referenceId": "Action_Plan_Template_Goal__cRef5"
             },
             "Name": "Swim laps weekly",
-            "Action_Plan_Problem_Template__c": "@Action_Plan_Problem_Template__cRef3",
+            "Action_Plan_Template_Problem__c": "@Action_Plan_Template_Problem__cRef3",
             "Description__c": "Go to the gym and swim laps weekly",
             "Priority__c": "Low",
             "Sort_Order__c": 2
         },
         {
             "attributes": {
-                "type": "Action_Plan_Goal_Template__c",
-                "referenceId": "Action_Plan_Goal_Template__cRef6"
+                "type": "Action_Plan_Template_Goal__c",
+                "referenceId": "Action_Plan_Template_Goal__cRef6"
             },
             "Name": "Daily Walks",
-            "Action_Plan_Problem_Template__c": "@Action_Plan_Problem_Template__cRef3",
+            "Action_Plan_Template_Problem__c": "@Action_Plan_Template_Problem__cRef3",
             "Description__c": "Walk for 10-30 minutes every day",
             "Priority__c": "High",
             "Sort_Order__c": 1

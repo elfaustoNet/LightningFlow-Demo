@@ -8,19 +8,19 @@
         ]
     },
     {
-        "sobject": "Action_Plan_Problem_Template__c",
+        "sobject": "Action_Plan_Template_Problem__c",
         "saveRefs": true,
         "resolveRefs": true,
         "files": [
-            "Action_Plan_Problem_Template__cs.json"
+            "Action_Plan_Template_Problem__cs.json"
         ]
     },
     {
-        "sobject": "Action_Plan_Goal_Template__c",
+        "sobject": "Action_Plan_Template_Goal__c",
         "saveRefs": false,
         "resolveRefs": true,
         "files": [
-            "Action_Plan_Goal_Template__cs.json"
+            "Action_Plan_Template_Goal__cs.json"
         ]
     }
 ]

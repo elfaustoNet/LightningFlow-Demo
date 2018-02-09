@@ -2,8 +2,8 @@
     "records": [
         {
             "attributes": {
-                "type": "Action_Plan_Problem_Template__c",
-                "referenceId": "Action_Plan_Problem_Template__cRef1"
+                "type": "Action_Plan_Template_Problem__c",
+                "referenceId": "Action_Plan_Template_Problem__cRef1"
             },
             "Name": "Balance Diet",
             "Action_Plan_Template__c": "@Action_Plan_Template__cRef1",
@@ -13,8 +13,8 @@
         },
         {
             "attributes": {
-                "type": "Action_Plan_Problem_Template__c",
-                "referenceId": "Action_Plan_Problem_Template__cRef2"
+                "type": "Action_Plan_Template_Problem__c",
+                "referenceId": "Action_Plan_Template_Problem__cRef2"
             },
             "Name": "High cholesterol",
             "Action_Plan_Template__c": "@Action_Plan_Template__cRef2",
@@ -24,8 +24,8 @@
         },
         {
             "attributes": {
-                "type": "Action_Plan_Problem_Template__c",
-                "referenceId": "Action_Plan_Problem_Template__cRef3"
+                "type": "Action_Plan_Template_Problem__c",
+                "referenceId": "Action_Plan_Template_Problem__cRef3"
             },
             "Name": "Sedentary lifestyle",
             "Action_Plan_Template__c": "@Action_Plan_Template__cRef2",
